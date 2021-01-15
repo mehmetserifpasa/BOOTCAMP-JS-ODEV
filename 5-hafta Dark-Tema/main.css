@@ -1,0 +1,35 @@
+.DarkMode {
+    background-color: rgb(26, 25, 25);
+    color: white;
+    transition: 300ms;
+}
+
+.body {
+    background-color: white;
+    color: black;
+    color: black;
+    transition: 300ms;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.dark-moon{ 
+  position: absolute; 
+  top: 50%; 
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+  height: 100px; 
+  width: 100px; 
+  box-shadow: -15px 15px 0 5px rgb(238, 234, 5)  ; 
+  border-radius: 50%; 
+}
+
+.dark-box {
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+

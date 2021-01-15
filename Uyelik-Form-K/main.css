@@ -1,0 +1,40 @@
+.box {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.forms {
+    padding: 60px 60px;
+    border: 2px solid rgba(66, 66, 66, 0.096);
+}
+
+.items {
+    display: block;
+    padding: 5px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+
+.hata-ver {
+    background-color: red;
+    padding: 5px 5px;
+    margin-top: 20px;
+    font-size: 13px;
+    color: white;
+
+}
+
+.mesaj {
+    background-color: rgb(5, 228, 42);
+    padding: 5px 5px;
+    margin-top: 20px;
+    font-size: 13px;
+
+}
+
+.d-none {
+    display: none;
+}
+
